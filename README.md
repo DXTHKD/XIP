@@ -29,4 +29,4 @@ tt: https://www.tiktok.com/@xcommunity7?_t=8e6KZDgO8So&_r=1
 dc (working): https://discord.gg/qN6rXHNKB7
 
 # dxthkd
-ig: https://instagram.com/fuckin,deathkid
+ig: https://instagram.com/fuckin.deathkid
