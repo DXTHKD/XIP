@@ -1,3 +1,4 @@
+[![NPM version][npm-image]][npm-url]
 ## XIP
 XIP is a IP Lookup tool writen in bash.
 
