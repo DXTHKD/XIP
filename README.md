@@ -23,7 +23,6 @@ i am not responseable for any damage done with this tool.
 ur on your own
 
 ## Socials
-=============
 # xcommunity
 ig: https://instagram.com/xcommunity7
 tt: https://www.tiktok.com/@xcommunity7?_t=8e6KZDgO8So&_r=1
