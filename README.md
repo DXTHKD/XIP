@@ -26,9 +26,9 @@ ur on your own
 
 ## Socials
 # xcommunity
-ig: https://instagram.com/xcommunity7
-tt: https://www.tiktok.com/@xcommunity7?_t=8e6KZDgO8So&_r=1
-dc (working): https://discord.gg/qN6rXHNKB7
+ig: https://instagram.com/xcommunity7 <br>
+tt: https://www.tiktok.com/@xcommunity7?_t=8e6KZDgO8So&_r=1 <br>
+dc (working): https://discord.gg/qN6rXHNKB7 <br>
 
 # dxthkd
 ig: https://instagram.com/fuckin.deathkid
