@@ -1,4 +1,3 @@
-[![NPM version][npm-image]][npm-url]
 ## XIP
 XIP is a IP Lookup tool writen in bash.
 
@@ -22,3 +21,13 @@ $ bash xipT.sh
 # Disclaimer
 i am not responseable for any damage done with this tool.
 ur on your own
+
+## Socials
+=============
+# xcommunity
+ig: https://instagram.com/xcommunity7
+tt: https://www.tiktok.com/@xcommunity7?_t=8e6KZDgO8So&_r=1
+dc (working): https://discord.gg/qN6rXHNKB7
+
+# dxthkd
+ig: https://instagram.com/fuckin,deathkid
