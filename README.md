@@ -1,5 +1,7 @@
 ## XIP
 XIP is a IP Lookup tool writen in bash.
+xipL.sh is for linux only!
+xipT.sh is for Ternux only!
 
 # Install
 For Linux:
