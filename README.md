@@ -1,9 +1,9 @@
-## XIP
+# XIP
 XIP is a IP Lookup tool writen in bash.
 xipL.sh is for linux only!
 xipT.sh is for Ternux only!
 
-# Install
+## Install
 For Linux:
 ```bash
 $ sudo apt install git
@@ -30,5 +30,5 @@ ig: https://instagram.com/xcommunity7 <br>
 tt: https://www.tiktok.com/@xcommunity7?_t=8e6KZDgO8So&_r=1 <br>
 dc (working): https://discord.gg/qN6rXHNKB7 <br>
 
-# dxthkd
+## dxthkd
 ig: https://instagram.com/fuckin.deathkid
