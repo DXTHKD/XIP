@@ -32,3 +32,10 @@ dc (working): https://discord.gg/qN6rXHNKB7 <br>
 
 ## dxthkd
 ig: https://instagram.com/fuckin.deathkid
+
+## todo
+```txt
+- redo "show own ip" option
+- make logs
+- reduce bugs
+```
