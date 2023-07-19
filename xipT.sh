@@ -1,10 +1,9 @@
 #! /bin/bash
 
 #Script by dxthkd (on dc)
-# -paid-
 
 col(){
-# ColorSet by dxthkd #
+# ColorSet by dxthkd
 RD='\033[0;31m'
 GR='\033[0;32m'
 OR='\033[0;33m'
